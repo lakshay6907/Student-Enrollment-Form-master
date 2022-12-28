@@ -30,22 +30,22 @@ JsonPowerDB is used to perform CURD operation
 # HOW TO USE
 
 * **Initially**
-<img src="./images/Initial_home_page_look.png">
+![Screenshot (2)](https://user-images.githubusercontent.com/95403606/209803925-06deb28e-1dc6-41ae-aebd-86ba8bfd6945.png)
 
 We need to enter a roll number 
 
 If roll number is not valid 
 
-<img src="./images/invalid_roll_number.png">
+![Screenshot (4)](https://user-images.githubusercontent.com/95403606/209804049-e12b316b-f0e5-4e05-9d91-a3764fc963ab.png)
 
 If roll number is valid and that roll number is existnig in database
 
-<img src="./images/existing_student.png">
+![Screenshot (6)](https://user-images.githubusercontent.com/95403606/209804323-11a59ab1-097f-4c9c-a099-9038b77f5653.png)
 
 * **Fetching student data using roll number**
   If student already present in database, then all field filled with that student information
   
-  <img src="./images/valid_roll_number.png">
+  ![image](https://user-images.githubusercontent.com/95403606/209804373-8b89fe44-e139-454d-b223-774414707841.png)
   otherwise, other fields are enabled after user input roll number
   
 * **Updation of student details**
