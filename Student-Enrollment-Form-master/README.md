@@ -77,5 +77,4 @@ If roll number is valid and that roll number is existnig in database
   
 
   --------------------
-## Hope You Like the Project ❤️❤️❤️
-## Peace to everyone 🙏🏻
+
