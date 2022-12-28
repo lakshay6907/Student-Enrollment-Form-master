@@ -31,7 +31,8 @@ JsonPowerDB is used to perform CURD operation
 # HOW TO USE
 
 * **Initially**
-![Screenshot (2)](https://user-images.githubusercontent.com/95403606/209803925-06deb28e-1dc6-41ae-aebd-86ba8bfd6945.png)
+
+![Screenshot (7)](https://user-images.githubusercontent.com/95403606/209806383-02a7156f-baa8-434c-a441-e3c4e0934dc6.png)
 
 We need to enter a roll number 
 
