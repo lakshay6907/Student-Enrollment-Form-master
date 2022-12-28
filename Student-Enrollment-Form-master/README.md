@@ -38,16 +38,16 @@ We need to enter a roll number
 
 If roll number is not valid 
 
-![Screenshot (4)](https://user-images.githubusercontent.com/95403606/209804049-e12b316b-f0e5-4e05-9d91-a3764fc963ab.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/95403606/209806520-7f8a08f7-b363-416c-bb91-2756d97cb667.png)
 
 If roll number is valid and that roll number is existnig in database
 
-![Screenshot (6)](https://user-images.githubusercontent.com/95403606/209804323-11a59ab1-097f-4c9c-a099-9038b77f5653.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/95403606/209806631-375b0b81-8fba-45fb-8774-ce19daf4d835.png)
 
 * **Fetching student data using roll number**
   If student already present in database, then all field filled with that student information
   
-  ![image](https://user-images.githubusercontent.com/95403606/209804373-8b89fe44-e139-454d-b223-774414707841.png)
+  ![Screenshot (10)](https://user-images.githubusercontent.com/95403606/209806688-db2b5211-329f-4851-b4e8-e1dccbed20ec.png)
   otherwise, other fields are enabled after user input roll number
   
 * **Updation of student details**
