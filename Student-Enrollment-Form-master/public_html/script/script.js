@@ -7,9 +7,9 @@
 var jpdbBaseURL = 'http://api.login2explore.com:5577';
 var jpdbIRL = '/api/irl';
 var jpbdIML = '/api/iml';
-var studentDatabaseName = 'SCHOOL-DB';
-var studentRelationName = 'STUDENT-TABLE';
-var connectionToken = '90938308|-31949273657875192|90952289';
+var studentDatabaseName = 'SchoolDB';
+var studentRelationName = 'Student';
+var connectionToken = '90938275|-31949273773538248|90952671';
 
 $('#rollNo').focus();
 
