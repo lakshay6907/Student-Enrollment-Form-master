@@ -18,8 +18,9 @@ JsonPowerDB is used to perform CURD operation
 * JsonPowerDB ( As Database)
 
 # Screenshots:
-![Screenshot (2)](https://user-images.githubusercontent.com/95403606/209803654-70b786f8-9628-462d-b560-6a8282d8cad9.png)
-![Screenshot (3)](https://user-images.githubusercontent.com/95403606/209803712-1586f807-5158-41d9-ad7b-0289c091b757.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/95403606/209806270-d287e763-b99d-4945-a100-d5d5178ae7c8.png)
+
+![Screenshot (8)](https://user-images.githubusercontent.com/95403606/209806277-2d0447e7-706b-4e98-a2ef-6fe8eab4f7b2.png)
 
 # Illustrations:
 * **UPDATE** : when student roll number is already present in database then student information is fetched from database and filled in respective feild then user can UPDATE student information 
@@ -30,68 +31,50 @@ JsonPowerDB is used to perform CURD operation
 # HOW TO USE
 
 * **Initially**
-![Screenshot (2)](https://user-images.githubusercontent.com/95403606/209803925-06deb28e-1dc6-41ae-aebd-86ba8bfd6945.png)
+
+![Screenshot (7)](https://user-images.githubusercontent.com/95403606/209806383-02a7156f-baa8-434c-a441-e3c4e0934dc6.png)
 
 We need to enter a roll number 
 
 If roll number is not valid 
 
-![Screenshot (4)](https://user-images.githubusercontent.com/95403606/209804049-e12b316b-f0e5-4e05-9d91-a3764fc963ab.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/95403606/209806520-7f8a08f7-b363-416c-bb91-2756d97cb667.png)
 
 If roll number is valid and that roll number is existnig in database
 
-![Screenshot (6)](https://user-images.githubusercontent.com/95403606/209804323-11a59ab1-097f-4c9c-a099-9038b77f5653.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/95403606/209806631-375b0b81-8fba-45fb-8774-ce19daf4d835.png)
 
 * **Fetching student data using roll number**
   If student already present in database, then all field filled with that student information
   
-  ![image](https://user-images.githubusercontent.com/95403606/209804373-8b89fe44-e139-454d-b223-774414707841.png)
+  ![Screenshot (10)](https://user-images.githubusercontent.com/95403606/209806688-db2b5211-329f-4851-b4e8-e1dccbed20ec.png)
   otherwise, other fields are enabled after user input roll number
   
 * **Updation of student details**
   In order to update student details input roll number, and then we can update the student data
+ 
+  ![Screenshot (11)](https://user-images.githubusercontent.com/95403606/209807426-297f663f-1002-4a34-a18d-33bdc4cb88e4.png)
   
-  <img src="./images/update_student_details.png">
-  
-  <img src="./images/alert_after_update.png">
+  ![Screenshot (12)](https://user-images.githubusercontent.com/95403606/209807466-3d8e60eb-347c-477e-bb00-2b8bf28c3660.png)
 
 * **Adding new student data**
 
   Enter new roll number and then all other fields are enabled and then after filling student information we can save this data into database only if input is valid
   
-  <img src="./images/save_data_1.png">
+  ![Screenshot (13)](https://user-images.githubusercontent.com/95403606/209807842-c22d90d8-589a-4ddf-a039-8bb5972d2e62.png)
   
-  <img src="./images/alert_after_save_data.png">
+  ![Screenshot (14)](https://user-images.githubusercontent.com/95403606/209807880-33f11771-a2f8-4f7f-b532-dd2287ea8eba.png)
   
  * **If input data is not valid**
  
-   <img src="./images/invalid_details_1.png">
+  ![Screenshot (15)](https://user-images.githubusercontent.com/95403606/209808082-2a50328f-b589-4db9-a5a7-9164a6987924.png)
   
-   <img src="./images/invalid_details_2.png">
-
-    
-  
-  # Installation
-  
-  Make a folder in your system and clone the project using git bash then open the project in Visual Studio Code or any IDE you prefer.
-  ##### Clone the project 
-  ```
-  git clone https://github.com/prashant-smart/Recommendation-system.git
-  ```
-  After cloning 
-  
-  Move to **public_html** and then **script** folder and in **script.js** file replace the **connectionToken** by with your Connection Token
+  ![Screenshot (16)](https://user-images.githubusercontent.com/95403606/209808170-456940e2-5477-4455-91c6-b81f3da0389a.png)
   
   # Sources
   * Introduction to JsonPowerDB - V2.0 course  on https://careers.login2explore.com/
   * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) 
   
 
-  # Demo
-  
-  https://user-images.githubusercontent.com/72729279/209667623-a34280bf-97cd-4eae-9584-b5022ea194bc.mp4
-  
-
   --------------------
-## Hope You Like the Project ❤️❤️❤️
-## Peace to everyone 🙏🏻
+
