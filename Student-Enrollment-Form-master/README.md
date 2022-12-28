@@ -18,8 +18,9 @@ JsonPowerDB is used to perform CURD operation
 * JsonPowerDB ( As Database)
 
 # Screenshots:
-![Screenshot (2)](https://user-images.githubusercontent.com/95403606/209803654-70b786f8-9628-462d-b560-6a8282d8cad9.png)
-![Screenshot (3)](https://user-images.githubusercontent.com/95403606/209803712-1586f807-5158-41d9-ad7b-0289c091b757.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/95403606/209806270-d287e763-b99d-4945-a100-d5d5178ae7c8.png)
+
+![Screenshot (8)](https://user-images.githubusercontent.com/95403606/209806277-2d0447e7-706b-4e98-a2ef-6fe8eab4f7b2.png)
 
 # Illustrations:
 * **UPDATE** : when student roll number is already present in database then student information is fetched from database and filled in respective feild then user can UPDATE student information 
