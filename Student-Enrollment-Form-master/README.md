@@ -61,37 +61,19 @@ If roll number is valid and that roll number is existnig in database
 
   Enter new roll number and then all other fields are enabled and then after filling student information we can save this data into database only if input is valid
   
-  <img src="./images/save_data_1.png">
+  ![Screenshot (13)](https://user-images.githubusercontent.com/95403606/209807842-c22d90d8-589a-4ddf-a039-8bb5972d2e62.png)
   
-  <img src="./images/alert_after_save_data.png">
+  ![Screenshot (14)](https://user-images.githubusercontent.com/95403606/209807880-33f11771-a2f8-4f7f-b532-dd2287ea8eba.png)
   
  * **If input data is not valid**
  
-   <img src="./images/invalid_details_1.png">
+  ![Screenshot (15)](https://user-images.githubusercontent.com/95403606/209808082-2a50328f-b589-4db9-a5a7-9164a6987924.png)
   
-   <img src="./images/invalid_details_2.png">
-
-    
-  
-  # Installation
-  
-  Make a folder in your system and clone the project using git bash then open the project in Visual Studio Code or any IDE you prefer.
-  ##### Clone the project 
-  ```
-  git clone https://github.com/prashant-smart/Recommendation-system.git
-  ```
-  After cloning 
-  
-  Move to **public_html** and then **script** folder and in **script.js** file replace the **connectionToken** by with your Connection Token
+  ![Screenshot (16)](https://user-images.githubusercontent.com/95403606/209808170-456940e2-5477-4455-91c6-b81f3da0389a.png)
   
   # Sources
   * Introduction to JsonPowerDB - V2.0 course  on https://careers.login2explore.com/
   * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/) 
-  
-
-  # Demo
-  
-  https://user-images.githubusercontent.com/72729279/209667623-a34280bf-97cd-4eae-9584-b5022ea194bc.mp4
   
 
   --------------------
