@@ -30,13 +30,13 @@ JsonPowerDB is used to perform CURD operation
 # HOW TO USE
 
 * **Initially**
-<img src="./images/Initial_home_page_look.png">
+![Screenshot (2)](https://user-images.githubusercontent.com/95403606/209803925-06deb28e-1dc6-41ae-aebd-86ba8bfd6945.png)
 
 We need to enter a roll number 
 
 If roll number is not valid 
 
-<img src="./images/invalid_roll_number.png">
+![Screenshot (4)](https://user-images.githubusercontent.com/95403606/209804049-e12b316b-f0e5-4e05-9d91-a3764fc963ab.png)
 
 If roll number is valid and that roll number is existnig in database
 
